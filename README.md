@@ -1,4 +1,4 @@
-# Bank-Management-Sys
+# Bank-Management-Syst
 
 # Basic Banking System
   Sparks Foundation Web Development Internship Project : Basic Banking System website. 
